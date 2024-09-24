@@ -1,1 +1,1 @@
-"it is registering"
+"it is registering..."
